@@ -1,0 +1,14 @@
+/Users/ossigalkin/CarunaSources/GeoJson/Frends.Community.GeoJSON/Frends.Community.GeoJSON/obj/Debug/netstandard2.0/Frends.Community.GeoJSON.csproj.AssemblyReference.cache
+/Users/ossigalkin/CarunaSources/GeoJson/Frends.Community.GeoJSON/Frends.Community.GeoJSON/obj/Debug/netstandard2.0/Frends.Community.GeoJSON.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ossigalkin/CarunaSources/GeoJson/Frends.Community.GeoJSON/Frends.Community.GeoJSON/obj/Debug/netstandard2.0/Frends.Community.GeoJSON.AssemblyInfoInputs.cache
+/Users/ossigalkin/CarunaSources/GeoJson/Frends.Community.GeoJSON/Frends.Community.GeoJSON/obj/Debug/netstandard2.0/Frends.Community.GeoJSON.AssemblyInfo.cs
+/Users/ossigalkin/CarunaSources/GeoJson/Frends.Community.GeoJSON/Frends.Community.GeoJSON/obj/Debug/netstandard2.0/Frends.Community.GeoJSON.csproj.CoreCompileInputs.cache
+/Users/ossigalkin/CarunaSources/GeoJson/Frends.Community.GeoJSON/Frends.Community.GeoJSON/bin/Debug/netstandard2.0/FrendsTaskMetadata.json
+/Users/ossigalkin/CarunaSources/GeoJson/Frends.Community.GeoJSON/Frends.Community.GeoJSON/bin/Debug/netstandard2.0/Frends.Community.GeoJSON.deps.json
+/Users/ossigalkin/CarunaSources/GeoJson/Frends.Community.GeoJSON/Frends.Community.GeoJSON/bin/Debug/netstandard2.0/Frends.Community.GeoJSON.dll
+/Users/ossigalkin/CarunaSources/GeoJson/Frends.Community.GeoJSON/Frends.Community.GeoJSON/bin/Debug/netstandard2.0/Frends.Community.GeoJSON.pdb
+/Users/ossigalkin/CarunaSources/GeoJson/Frends.Community.GeoJSON/Frends.Community.GeoJSON/bin/Debug/netstandard2.0/Frends.Community.GeoJSON.xml
+/Users/ossigalkin/CarunaSources/GeoJson/Frends.Community.GeoJSON/Frends.Community.GeoJSON/obj/Debug/netstandard2.0/Frends.Community.GeoJSON.dll
+/Users/ossigalkin/CarunaSources/GeoJson/Frends.Community.GeoJSON/Frends.Community.GeoJSON/obj/Debug/netstandard2.0/Frends.Community.GeoJSON.xml
+/Users/ossigalkin/CarunaSources/GeoJson/Frends.Community.GeoJSON/Frends.Community.GeoJSON/obj/Debug/netstandard2.0/Frends.Community.GeoJSON.pdb
+/Users/ossigalkin/CarunaSources/GeoJson/Frends.Community.GeoJSON/Frends.Community.GeoJSON/obj/Debug/netstandard2.0/Frends.Community.GeoJSON.sourcelink.json
