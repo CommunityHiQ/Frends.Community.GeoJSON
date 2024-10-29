@@ -21,7 +21,7 @@ namespace Frends.Community.GeoJSON
         /// <param name="options">Define if repeated multiple times. </param>
         /// <param name="cancellationToken"></param>
         /// <returns>{string Replication} </returns>
-        public static Result WKTPolygonToGeoJSON(Parameters input, [PropertyTab] Options options, CancellationToken cancellationToken)
+        public static Result WKTPolygonToGeoJSON([PropertyTab] Parameters input, CancellationToken cancellationToken)
         {
 
         var reader = new NetTopologySuite.IO.WKTReader();
