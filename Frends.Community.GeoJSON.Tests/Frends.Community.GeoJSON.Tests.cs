@@ -18,7 +18,7 @@ namespace Frends.Community.GeoJSON.Tests
 
             var ret = GeoJson.WKTPolygonToGeoJSON(input, new System.Threading.CancellationToken());
 
-            Assert.That(ret.Ret, Is.EqualTo(@"{""type"":""Feature"",""geometry"":{""type"":""Polygon"",""coordinates"":[[[30.0,10.0],[40.0,40.0],[20.0,40.0],[10.0,20.0],[30.0,10.0]]]},""properties"":{}}"));
+            Assert.That(ret.Ret, Is.EqualTo(@"{""type"":""Feature"",""geometry"":{""type"":""Polygon"",""coordinates"":[[[30.0,10.0],[40.0,40.0],[20.0,40.0],[10.0,20.0],[30.0,10.0]]]},""properties"":{""centroid"":{""latitude"":26.96969696969697,""longitude"":25.454545454545453}}}"));
         }
     }
 }
